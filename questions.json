@@ -1,0 +1,466 @@
+{
+  "heading": "Simple Past Tense and Past Continuous Tense",
+  "topics": [
+    {
+      "heading": "Simple Past Tense and Past Continuous Tense",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank with the correct simple past tense verb: 'Yesterday, I _____ my favourite ice cream.'",
+          "options": [
+            {
+              "text": "eat"
+            },
+            {
+              "text": "ate"
+            },
+            {
+              "text": "eaten"
+            },
+            {
+              "text": "eating"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Ate' is the simple past tense of 'eat'. We use simple past tense to describe a completed action in the past. Since this happened 'yesterday', we know it's finished, so we use 'ate'."
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose the correct simple past tense form: 'Last summer, we _____ (go) to the beach every weekend.'",
+          "options": [
+            {
+              "text": "go"
+            },
+            {
+              "text": "gone"
+            },
+            {
+              "text": "went"
+            },
+            {
+              "text": "going"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Went' is the irregular simple past tense form of 'go'. We use it to describe a repeated action that happened in the past and is now complete."
+        },
+        {
+          "questionNo": 3,
+          "question": "In the sentence 'She jumped over the puddle', 'jumped' is in the simple past tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Jumped' is in the simple past tense. It's formed by adding '-ed' to the base verb 'jump', which is how we form simple past tense for regular verbs."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank with the correct past continuous tense: 'While I _____ dinner, the phone rang.'",
+          "options": [
+            {
+              "text": "was cooking"
+            },
+            {
+              "text": "cooked"
+            },
+            {
+              "text": "am cooking"
+            },
+            {
+              "text": "cook"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Was cooking' is the past continuous tense. We use it to describe an ongoing action in the past that was interrupted by another action (the phone ringing). It's formed with the 'was' + '-ing' form of the verb."
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the correct past continuous form: 'They _____ in the park when it started to rain.'",
+          "options": [
+            {
+              "text": "were playing"
+            },
+            {
+              "text": "was playing"
+            },
+            {
+              "text": "played"
+            },
+            {
+              "text": "play"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Were playing' is the correct past continuous form for 'they'. We use 'were' with plural subjects or 'you', and add '-ing' to the base verb. This describes an action that was in progress when another action (rain starting) occurred."
+        },
+        {
+          "questionNo": 6,
+          "question": "In the sentence 'I was reading a book all afternoon', 'was reading' is in the past continuous tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Was reading' is in the past continuous tense. It's formed with 'was' (for 'I') + the '-ing' form of the verb 'read'. This tense is used to describe an action that was ongoing for some time in the past."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank with the correct past continuous tense: 'The children _____ happily when their parents arrived.'",
+          "options": [
+            {
+              "text": "were laughing"
+            },
+            {
+              "text": "was laughing"
+            },
+            {
+              "text": "laughed"
+            },
+            {
+              "text": "laugh"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Were laughing' is the correct past continuous form. We use 'were' with plural subjects like 'children', and add '-ing' to the base verb. This describes an ongoing action (laughing) that was happening when another action (parents arriving) occurred."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence uses past continuous tense correctly?",
+          "options": [
+            {
+              "text": "She singing when I called."
+            },
+            {
+              "text": "They were played in the garden."
+            },
+            {
+              "text": "He was watching TV when the lights went out."
+            },
+            {
+              "text": "I reading a book last night."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence correctly uses 'was watching', the past continuous form, to describe an ongoing action in the past that was interrupted by another action (lights going out)."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which tense is used in this sentence: 'The cat slept on the sofa all day.'",
+          "options": [
+            {
+              "text": "Past continuous tense"
+            },
+            {
+              "text": "Simple past tense"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Slept' is the simple past tense of 'sleep'. It's used here to describe a completed action that happened in the past (all day, which is now over)."
+        },
+        {
+          "questionNo": 10,
+          "question": "The sentence 'I was walking to school' is in past continuous tense.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Was walking' is the past continuous form, used to describe an action that was ongoing in the past. It's formed with 'was' (for 'I') + the '-ing' form of the verb 'walk'."
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank with the appropriate tense: 'Every day last week, I _____ (walk) to school.'",
+          "options": [
+            {
+              "text": "walked"
+            },
+            {
+              "text": "was walking"
+            },
+            {
+              "text": "am walking"
+            },
+            {
+              "text": "walk"
+            }
+          ],
+          "answer": 0,
+          "explanation": "It happened in a finished time period (last week), so we use simple past tense. 'Walked' shows this routine was completed in the past."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank with the correct simple past tense: 'Last night, I _____ a funny movie.'",
+          "options": [
+            {
+              "text": "watch"
+            },
+            {
+              "text": "watched"
+            },
+            {
+              "text": "watching"
+            },
+            {
+              "text": "watches"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Watched' is the simple past tense of 'watch'. We use simple past tense to describe a completed action in the past."
+        },
+        {
+          "questionNo": 13,
+          "question": "We always add '-ed' to make the simple past tense of a verb.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "While many verbs (called regular verbs) do form their past tense by adding '-ed', there are many irregular verbs that change in different ways. For example, 'go' becomes 'went', not 'goed'."
+        },
+        {
+          "questionNo": 14,
+          "question": "Fill in the blank with the correct past continuous tense: 'The birds _____ loudly while I was trying to sleep.'",
+          "options": [
+            {
+              "text": "were singing"
+            },
+            {
+              "text": "was singing"
+            },
+            {
+              "text": "sang"
+            },
+            {
+              "text": "sing"
+            }
+          ],
+          "answer": 0,
+          "explanation": "We use past continuous to describe an ongoing action in the past. It's formed with 'were' (for plural subjects) + the '-ing' form of the verb."
+        },
+        
+        {
+          "questionNo": 15,
+          "question": "Which sentence correctly uses the simple past tense?",
+          "options": [
+            {
+              "text": "I am going to the park yesterday."
+            },
+            {
+              "text": "She will eat lunch last week."
+            },
+            {
+              "text": "They played basketball after school."
+            },
+            {
+              "text": "We are swimming in the ocean last summer."
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Played' is the simple past tense of 'play,' used to describe a completed action in the past."
+        },
+        {
+          "questionNo": 16,
+          "question": "What is the rule for forming past continuous tense?",
+          "options": [
+            {
+              "text": "Add '-ed' to the verb"
+            },
+            {
+              "text": "Use 'was/were' + verb + '-ing'"
+            },
+            {
+              "text": "Use 'had' + verb"
+            },
+            {
+              "text": "Just use the verb as it is"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The past continuous tense is formed with 'was/were' + verb + '-ing' to describe ongoing actions in the past."
+        },
+        {
+          "questionNo": 17,
+          "question": "We use simple past tense to describe an ongoing action happening in the past.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "We use past continuous tense, not simple past, to describe ongoing actions in the past."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which sentence uses the past continuous tense correctly?",
+          "options": [
+            {
+              "text": "She was cook dinner when I arrived."
+            },
+            {
+              "text": "They were played in the garden all afternoon."
+            },
+            {
+              "text": "He was watching TV when the power went out."
+            },
+            {
+              "text": "I was went to the store yesterday."
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Was watching' is the past continuous form used to describe an ongoing action interrupted by another action."
+        },
+        {
+          "questionNo": 19,
+          "question": "What's the rule for using 'was' or 'were' in past continuous tense?",
+          "options": [
+            {
+              "text": "Always use 'was'"
+            },
+            {
+              "text": "Always use 'were'"
+            },
+            {
+              "text": "Use 'was' for singular subjects, 'were' for plural subjects and 'you'"
+            }
+          ],
+          "answer": 2,
+          "explanation": "Use 'was' for singular subjects (I, he, she, it) and 'were' for plural subjects (we, they) or 'you'."
+        },
+        {
+          "questionNo": 20,
+          "question": "“She was baking a cake when I called” describes an action happening right now.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Was baking' describes an ongoing action in the past, not in the present."
+        },
+        {
+          "questionNo": 21,
+          "question": "What is the past tense of the verb 'talk'?",
+          "options": [
+            {
+              "text": "Talked"
+            },
+            {
+              "text": "Talks"
+            },
+            {
+              "text": "Talking"
+            },
+            {
+              "text": "Talk"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Talk' is a regular verb, and the past tense is 'talked'."
+        },
+        {
+          "questionNo": 22,
+          "question": "What is the past tense of the verb 'give'?",
+          "options": [
+            {
+              "text": "Gived"
+            },
+            {
+              "text": "Gave"
+            },
+            {
+              "text": "Gives"
+            },
+            {
+              "text": "Giving"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Give' is an irregular verb, and the past tense form is 'gave'."
+        },
+        {
+          "questionNo": 23,
+          "question": "What is the past tense of the verb 'cry'?",
+          "options": [
+            {
+              "text": "Cryed"
+            },
+            {
+              "text": "Cried"
+            },
+            {
+              "text": "Crying"
+            },
+            {
+              "text": "Cries"
+            }
+          ],
+          "answer": 1,
+          "explanation": "For regular verbs ending in 'y', we change the 'y' to 'i' and add '-ed' to form 'cried'."
+        },
+        {
+          "questionNo": 24,
+          "question": "What is the past tense of the verb 'see'?",
+          "options": [
+            {
+              "text": "Seed"
+            },
+            {
+              "text": "Seeing"
+            },
+            {
+              "text": "Sees"
+            },
+            {
+              "text": "Saw"
+            }
+          ],
+          "answer": 3,
+          "explanation": "'See' is an irregular verb, and the past tense form is 'saw'."
+        },
+        {
+          "questionNo": 25,
+          "question": "What is the past tense of the verb 'clap'?",
+          "options": [
+            {
+              "text": "Claped"
+            },
+            {
+              "text": "Clapt"
+            },
+            {
+              "text": "Clapped"
+            },
+            {
+              "text": "Clapping"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Clap' is a regular verb, and the past tense is formed by doubling the 'p' and adding '-ed' to get 'clapped'."
+        }
+      ]
+    }
+  ]
+}
